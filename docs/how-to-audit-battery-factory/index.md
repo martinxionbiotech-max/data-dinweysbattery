@@ -1,5 +1,5 @@
 ---
-description: How to audit a truck battery factory — the checklist a buyer, distributor or fleet should run to verify manufacturing capability, quality systems and evidence before committing to an OEM order.
+description: How to audit a truck battery factory — the checks a buyer should run before committing to an OEM order: capability, quality systems and evidence.
 type: article
 date_published: 2026-09-12
 date_modified: 2026-09-12

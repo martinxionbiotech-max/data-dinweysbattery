@@ -1,5 +1,5 @@
 ---
-description: DINWEYS manufacturing and quality control — the Chengguang Power Tech production process, on-site laboratories, five-stage QC and traceability behind every truck battery.
+description: DINWEYS manufacturing and quality control — the Chengguang Power Tech production process, on-site laboratories and five-stage QC behind every truck battery.
 type: article
 date_published: 2026-09-12
 date_modified: 2026-09-12

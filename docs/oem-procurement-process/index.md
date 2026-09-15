@@ -1,5 +1,5 @@
 ---
-description: The complete truck battery OEM procurement process — from buyer requirement to shipment, with what each party provides, what can go wrong at each step, and what the buyer must verify.
+description: The truck battery OEM procurement process, step by step — what each party provides, what can go wrong, and what the buyer must verify before shipment.
 type: article
 date_published: 2026-09-12
 date_modified: 2026-09-12

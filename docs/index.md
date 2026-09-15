@@ -1,5 +1,5 @@
 ---
-description: DINWEYS Battery Knowledge Hub — official technical documentation for DINWEYS truck and heavy-duty starting batteries, manufactured by Chengguang Power Tech Co., Ltd. Covers JIS, DIN and BCI battery standards, cold cranking amps (CCA), reserve capacity, selection guides, maintenance and application scenarios.
+description: DINWEYS Battery Knowledge Hub — technical documentation for DINWEYS truck and heavy-duty starting batteries by Chengguang Power Tech: JIS/DIN/BCI standards, CCA, reserve capacity, selection and maintenance.
 type: page
 date_published: 2026-08-30
 date_modified: 2026-08-31
