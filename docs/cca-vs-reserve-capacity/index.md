@@ -105,7 +105,7 @@ as to CCA.
 
 ## References
 
-1. [CCA vs Reserve Capacity — JYC Battery](https://www.jycbattery.com/cca-vs-reserve-capacity-critical-metrics-for-heavy-duty-fleets)
+1. [SAE J537 — Storage Batteries (cold-cranking and reserve capacity test methods)](https://www.sae.org/standards/content/j537_202102/)
 2. [Heavy-Duty Truck Batteries — Fuel Logic](https://www.fuellogic.net/heavy-duty-truck-batteries)
 3. [Reserve capacity — Battery Council International](https://batterycouncil.org/)
 
