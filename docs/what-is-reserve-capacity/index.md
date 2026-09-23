@@ -86,8 +86,10 @@ table above:
 | 58827 | 150 min | 25 × 150 ÷ 60 ≈ 63 Ah |
 | 60038 | 170 min | 25 × 170 ÷ 60 ≈ 71 Ah |
 
-So the 320-minute 190H52 delivers roughly 133 Ah before hitting 10.5V — more than double the
-≈63 Ah of the 150-minute 58827. One caveat: this is the energy actually delivered during the RC
+> **RC conversion estimates, not rated capacity.** The "≈92 Ah" and "≈133 Ah" figures above are **estimates** derived from RC minutes via `25 A × minutes ÷ 60` — **they are not the rated capacity**. Rated (C20) capacity is shown on the specification pages: 145G51 = **135 Ah**, 190H52 = **200 Ah**. Do not cite the converted values as rated Ah.
+
+So the 320-minute 190H52 delivers roughly 133 Ah (RC-conversion estimate, not the rated
+capacity) before hitting 10.5V — more than double the ≈63 Ah of the 150-minute 58827. One caveat: this is the energy actually delivered during the RC
 test, not the nameplate C20 Ah rating. Because a 25A draw is far faster than the 20-hour rate,
 the RC-derived figure reads lower than a full C20 Ah rating for the same battery — which is
 exactly why RC and Ah stay separate specifications.
